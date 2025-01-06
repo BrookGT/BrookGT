@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biruk Gebisa</h1>
 <h3 align="center">A passionate full-stack web developer from Adam Science and Technology University</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif">
+//<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif">
 
 
 
