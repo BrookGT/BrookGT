@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NEXT JS.**
 
-- 💬 Ask me about **React, and Flutter**
+- 💬 Ask me about **React, and React Native**
 
 - 📫 How to reach me **birukgebisa7@gmail.com**
 
